@@ -1,4 +1,6 @@
 # TFG
+# Métodos de tiro para problemas de difusión y absorción de oxígeno 1-dimensional
+# Francisco Rodríguez Milán - UAB Grado en Matemàticas
 Códigos realizados listos para ejecutar durante el TFG
 
 -----------------------
